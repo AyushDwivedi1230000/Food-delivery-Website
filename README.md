@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![SoSo Foods Banner](./frontend/public/0-banner.png)
+![SoSo Foods Banner](./frontend/public/1.png)
 
 **Experience the best food delivery service in India with unmatched quality and convenience**
 
@@ -62,7 +62,7 @@
 ### 🏠 Landing Page
 *First impression with hero section and value proposition*
 
-![Landing Page Hero](./frontend/public/1-landing.png)
+![Landing Page Hero](./frontend/public/2.png)
 
 **Key Elements:**
 - 🔥 Engaging hero section with "Discover Restaurants that deliver near you"
@@ -76,9 +76,7 @@
 ### 💎 Why Choose SoSo Foods
 *Value propositions and service highlights*
 
-![Why Choose Section 1](./frontend/public/2-why-choose-1.png)
-
-![Why Choose Section 2](./frontend/public/3-why-choose-2.png)
+![Why Choose Section](./frontend/public/3.png)
 
 **Features Highlighted:**
 - ⚡ **Fast Delivery** - Hot food in 30 minutes across India
@@ -91,9 +89,7 @@
 ### 🔄 How It Works
 *Simple 3-step ordering process*
 
-![How It Works 1](./frontend/public/4-how-it-works-1.png)
-
-![How It Works 2](./frontend/public/5-how-it-works-2.png)
+![How It Works](./frontend/public/4.png)
 
 **User Journey:**
 1. **📍 Choose Location** - Select delivery address and browse nearby restaurants
@@ -105,7 +101,7 @@
 ### 📊 Platform Statistics
 *Real numbers showcasing platform scale*
 
-![Statistics](./frontend/public/6-statistics.png)
+![Statistics](./frontend/public/5.png)
 
 **Impressive Metrics:**
 - 🏪 **500+** Restaurants
@@ -118,7 +114,7 @@
 ### 💬 Customer Testimonials
 *Real experiences from valued customers*
 
-![Testimonials](./frontend/public/7-testimonials.png)
+![Testimonials](./frontend/public/6.png)
 
 **Featured Reviews:**
 - ⭐⭐⭐⭐⭐ Priya Sharma - "Fast delivery, hot food, amazing variety"
@@ -130,7 +126,7 @@
 ### 📞 Call-to-Action Section
 *Converting visitors to customers*
 
-![CTA Section](./frontend/public/8-cta.png)
+![CTA Section](./frontend/public/7.png)
 
 **Conversion Elements:**
 - ✨ "Ready to Order?" headline
@@ -144,7 +140,7 @@
 ### 🍽️ Restaurant Listing
 *Browse all available restaurants*
 
-![Restaurant Listing](./frontend/public/9-restaurants.png)
+![Restaurant Listing](./frontend/public/8.png)
 
 **Features:**
 - 🔍 Search restaurants or cuisine
@@ -173,7 +169,7 @@
 #### Sign Up Page
 *Create new account with secure registration*
 
-![Sign Up](./frontend/public/10-signup.png)
+![Sign Up](./frontend/public/9.png)
 
 **Registration Features:**
 - 📝 Full Name input
@@ -186,7 +182,7 @@
 #### Login Page
 *Secure authentication for returning users*
 
-![Login](./frontend/public/11-login.png)
+![Login](./frontend/public/10.png)
 
 **Login Features:**
 - 📧 Email field
@@ -203,7 +199,7 @@
 #### Indian Restaurant - Taj Palace
 *Exploring the menu of a royal Indian cuisine restaurant*
 
-![Taj Palace Menu](screenshots/restaurant-taj-palace.png)
+![Taj Palace Menu](./frontend/public/11.png)
 
 **Page Elements:**
 - 🏪 Restaurant header with name and cuisine type
@@ -225,7 +221,7 @@
 #### American Restaurant - The Burger Lab
 *Gourmet burger destination*
 
-![Burger Lab Menu](screenshots/restaurant-burger-lab.png)
+![Burger Lab Menu](./frontend/public/12.png)
 
 **Specialty Burgers:**
 - **Classic Cheeseburger** - ₹349 | 505 Cal | 4.6★
