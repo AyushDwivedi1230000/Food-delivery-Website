@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![SoSo Foods Banner](https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=1200&h=400&fit=crop)
+![SoSo Foods Banner](https://images.unsplash.com/photo-1504674900247-0877039348bf?w=1200&h=400&fit=crop&auto=format)
 
 **Experience the best food delivery service in India with unmatched quality and convenience**
 
@@ -62,7 +62,7 @@
 ### 🏠 Landing Page
 *First impression with hero section and value proposition*
 
-![Landing Page Hero](screenshots/home-hero.png)
+![Landing Page Hero](https://images.unsplash.com/photo-1504674900247-0877039348bf?w=800&h=500&fit=crop&auto=format)
 
 **Key Elements:**
 - 🔥 Engaging hero section with "Discover Restaurants that deliver near you"
@@ -76,7 +76,7 @@
 ### 💎 Why Choose SoSo Foods
 *Value propositions and service highlights*
 
-![Why Choose Section](screenshots/home-features.png)
+![Why Choose Section](https://images.unsplash.com/photo-1504674900247-0877039348bf?w=800&h=500&fit=crop&auto=format)
 
 **Features Highlighted:**
 - ⚡ **Fast Delivery** - Hot food in 30 minutes across India
@@ -89,7 +89,7 @@
 ### 🔄 How It Works
 *Simple 3-step ordering process*
 
-![How It Works](screenshots/home-howitworks.png)
+![How It Works](https://images.unsplash.com/photo-1504674900247-0877039348bf?w=800&h=500&fit=crop&auto=format)
 
 **User Journey:**
 1. **📍 Choose Location** - Select delivery address and browse nearby restaurants
@@ -101,7 +101,7 @@
 ### 📊 Platform Statistics
 *Real numbers showcasing platform scale*
 
-![Statistics](screenshots/home-stats.png)
+![Statistics](https://images.unsplash.com/photo-1504674900247-0877039348bf?w=800&h=500&fit=crop&auto=format)
 
 **Impressive Metrics:**
 - 🏪 **500+** Restaurants
@@ -114,7 +114,7 @@
 ### 💬 Customer Testimonials
 *Real experiences from valued customers*
 
-![Testimonials](screenshots/home-testimonials.png)
+![Testimonials](https://images.unsplash.com/photo-1504674900247-0877039348bf?w=800&h=500&fit=crop&auto=format)
 
 **Featured Reviews:**
 - ⭐⭐⭐⭐⭐ Priya Sharma - "Fast delivery, hot food, amazing variety"
@@ -126,7 +126,7 @@
 ### 📞 Call-to-Action Section
 *Converting visitors to customers*
 
-![CTA Section](screenshots/home-cta.png)
+![CTA Section](https://images.unsplash.com/photo-1504674900247-0877039348bf?w=800&h=500&fit=crop&auto=format)
 
 **Conversion Elements:**
 - ✨ "Ready to Order?" headline
@@ -140,7 +140,7 @@
 ### 🍽️ Restaurant Listing
 *Browse all available restaurants*
 
-![Restaurant Listing](screenshots/restaurants-page.png)
+![Restaurant Listing](https://images.unsplash.com/photo-1504674900247-0877039348bf?w=800&h=500&fit=crop&auto=format)
 
 **Features:**
 - 🔍 Search restaurants or cuisine
@@ -169,7 +169,7 @@
 #### Sign Up Page
 *Create new account with secure registration*
 
-![Sign Up](screenshots/signup-page.png)
+![Sign Up](https://images.unsplash.com/photo-1504674900247-0877039348bf?w=800&h=500&fit=crop&auto=format)
 
 **Registration Features:**
 - 📝 Full Name input
@@ -182,7 +182,7 @@
 #### Login Page
 *Secure authentication for returning users*
 
-![Login](screenshots/login-page.png)
+![Login](https://images.unsplash.com/photo-1504674900247-0877039348bf?w=800&h=500&fit=crop&auto=format)
 
 **Login Features:**
 - 📧 Email field
