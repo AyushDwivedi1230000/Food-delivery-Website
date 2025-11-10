@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Luxury Color Palette Variables */
+:root {
+  --orange-luxury: #FF7A3D;
+  --orange-bright: #FF9D6B;
+  --orange-deep: #E85D1F;
+  --gold-accent: #FFB84D;
+  --shadow-glow: rgba(255, 122, 61, 0.3);
+}
+
+html {
+  color-scheme: dark;
+}
+
+html, body, #root {
+  @apply bg-gradient-to-br from-gray-900 via-black to-gray-900 text-gray-100;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Smooth Transitions for All Interactive Elements */
+* {
+  transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 300ms;
+}
+
+/* Remove transition from motion elements to avoid conflicts */
+[data-framer-motion],
+[data-framer-motion] * {
+  transition: none !important;
+}
+
+/* Luxury Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+  background: #0a0a0a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, var(--orange-luxury), var(--orange-deep));
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, var(--orange-bright), var(--orange-luxury));
+}
+
+/* Selection Color */
+::selection {
+  background: var(--orange-luxury);
+  color: white;
+}
+
+::-moz-selection {
+  background: var(--orange-luxury);
+  color: white;
+}
+
